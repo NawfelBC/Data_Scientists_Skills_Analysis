@@ -7,14 +7,14 @@ This is a small project to find out what are the most popular Data Science skill
 To answer this question, I first extracted skills of 1000 French Data Scientists from their LinkedIn profile using tools like [Selenium](https://selenium-python.readthedocs.io/) 
 and [Linkedin-Api](https://github.com/tomquirk/linkedin-api) and stored them into a CSV file.
 
-Code : [Id Scraper](https://github.com/NawfelBC/Portfolio/blob/main/Web%20Scraping/Linkedin%20Scraping/id_scraper.py), [Skills Scraper](https://github.com/NawfelBC/Portfolio/blob/main/Web%20Scraping/Linkedin%20Scraping/skills_scraper.py) 
-<br>CSV File : [CSV](https://github.com/NawfelBC/Portfolio/blob/main/Web%20Scraping/Linkedin%20Scraping/Output/skills.csv)</br>
+Code : [Id Scraper](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis/blob/main/id_scraper.py), [Skills Scraper](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis/blob/main/skills_scraper.py) 
+<br>CSV File : [CSV](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis/blob/main/Output/skills.csv)</br>
 
 ## Analyze the data
 
 To analyze the data, I used Python libraries such as Pandas and Matplotlib to find out what are the most common skills in the dataset.
 
-Code : [Notebook](https://github.com/NawfelBC/Portfolio/blob/main/Web%20Scraping/Linkedin%20Scraping/Analysis.ipynb)
+Code : [Notebook](https://github.com/NawfelBC/Data_Scientists_Skills_Analysis/blob/main/Analysis.ipynb)
 
 ## Summarize the results
 
